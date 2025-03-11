@@ -6,7 +6,7 @@ import os
 from PIL import Image
 
 # Title
-st.title("🎉 Happy Birthday Neha! 🎂")
+st.title("🎉 Happy Birthday TO Me! 🎂")
 
 # Birthday Message
 st.write("## Wishing Myself a Very Happy Birthday! 🎈")
