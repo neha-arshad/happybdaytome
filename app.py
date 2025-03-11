@@ -38,7 +38,7 @@ def get_audio_base64(file_path):
     return base64.b64encode(audio_bytes).decode()
 
 # Local MP3 File Path
-mp3_file_path = "birthdaySong.mp3"
+mp3_file_path = "birthdaysong.mp3"
 
 try:
     audio_base64 = get_audio_base64(mp3_file_path)
